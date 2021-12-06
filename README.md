@@ -1,4 +1,4 @@
-### Hi there :sunglasses:
+### Hello there :sunglasses:
 
 Just a fun-sized :smile_cat: exploring her way in the world of data!
 
