@@ -3,7 +3,7 @@
 Just a fun-sized :smile_cat: exploring her way in the world of data!
 
 Some facts about me:
-- :computer: I’m currently working on building a recommendation engine. 
+- :computer: I’m currently working on building a customer lifetime value prediction model.  
 - :cloud: AWS is my new area of exploration.
 - :sunflower: I enjoy going on nature walks and hikes. 
 - :camera: I love capturing little moments in life. 
